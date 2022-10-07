@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx-test-3
+  name: nginx-test-4
 spec:
   strategy:
     type: Recreate

@@ -1,6 +1,6 @@
 kind: Deployment
 metadata:
-  name: nginx-test
+  name: nginx-test-2
 spec:
   strategy:
     type: Recreate

@@ -5,9 +5,6 @@ spec:
   api:
     serverUrl: http://scg.source-lab.io
     title: "Animal Rescue"
-    description: "Sample application for Spring Cloud Gateway commercial product demos."
-    documentation: "https://github.com/spring-cloud-services-samples/animal-rescue/"
-    version: "1.0.0-K8s"
     cors:
       allowedOrigins:
       - "http://*.source-lab.io"
